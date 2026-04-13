@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #ffe4ec, #ffffff);
+}
+
+h1 {
+    text-align: center;
+    color: #d63384;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+select {
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background: pink;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+}
